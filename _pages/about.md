@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-subtitle: I am a smart heading.
-desc: About me.
+title: Про
+subtitle: Умный заголовок
+desc: Про меня
 permalink: /about/
 ---
 
